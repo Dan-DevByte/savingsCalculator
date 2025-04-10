@@ -1,0 +1,2 @@
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Release\net9.0\win-x64\publish\SavingsCalculator.pdb
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Release\net9.0\win-x64\publish\SavingsCalculator.exe
