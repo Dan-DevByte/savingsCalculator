@@ -1,0 +1,14 @@
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Debug\net9.0\SavingsCalculator.exe
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Debug\net9.0\SavingsCalculator.deps.json
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Debug\net9.0\SavingsCalculator.runtimeconfig.json
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Debug\net9.0\SavingsCalculator.dll
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\bin\Debug\net9.0\SavingsCalculator.pdb
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.AssemblyInfoInputs.cache
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.AssemblyInfo.cs
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.csproj.CoreCompileInputs.cache
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.dll
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\refint\SavingsCalculator.dll
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.pdb
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\SavingsCalculator.genruntimeconfig.cache
+D:\Dan.bytedev\savingsCalculator\SavingsCalculator\obj\Debug\net9.0\ref\SavingsCalculator.dll
